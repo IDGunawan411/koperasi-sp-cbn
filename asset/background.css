@@ -1,0 +1,41 @@
+/* Background dashboard */
+.bg-form-dashboard{
+    background-image: url("../img/form/form-dashboard2.PNG");
+    background-size: 40%;
+    background-position: center;
+}
+
+/* Background form anggota */
+.bg-form-anggota{
+    background-image: url("../img/form/form-anggota.jpg");
+    background-size: 40%;
+    background-position: center;
+}
+
+/* Background form tambah simpanan */
+.bg-form-tambah-simpanan{
+    background-image: url("../img/form/form-simpanan.jpg");
+    background-size: 40%;
+    background-position: center;
+}
+
+/* Background form tambah penarikan */
+.bg-form-tambah-penarikan{
+    background-image: url("../img/form/form-penarikan.jpg");
+    background-size: 40%;
+    /* background-position: center; */
+}
+
+/* Background form tambah pinjaman */
+.bg-form-tambah-pinjaman{
+    background-image: url("../img/form/form-pinjaman.jpg");
+    background-size: 40%;
+    /* background-position: center; */
+}
+
+/* Background form help */
+.bg-form-help-tambah{
+    background-image: url("../img/form/form-help.jpg");
+    background-size: 50%;
+    /* background-position: center; */
+}
