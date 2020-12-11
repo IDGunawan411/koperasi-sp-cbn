@@ -1,3 +1,6 @@
+    <div class="mt-20 mb-20 text-right mr-30">
+           <p><i class="far fa-copyright"></i> <i>Copyright koperasi-sp-cbn <?= date('Y')?></i></p>
+    </div>
 </div>
 
 
@@ -52,7 +55,6 @@
     ga('create', 'UA-XXXXX-X', 'auto');
     ga('send', 'pageview');
 </script>
-
 </body>
 
 </html>
